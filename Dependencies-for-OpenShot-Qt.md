@@ -2,38 +2,38 @@ Here you have all dependencies that you need to install for an optimal utilisati
 
 First, you must install all softwares asked for getting a full installation, Here the list :
 
-swig/swig2.0
-doxygen/doxypy
-cmake
-libunittest-dev
-python3-pyqt5
-python3-pyqt5.qtsql
-python3-pyqt5.qtquick
-python3-pyqt5.qtopengl
-python3-pyqt5.qtsvg
-python3-pyqt5.qtxmlpatterns
-python3-pyqt5.qtmultimedia
-python3-pyqt5.qtwebkit
-python3-simplejson
-build-essential
-qt5-default
-qt5-qmake
-libmagick++5 (wil install libmagickcore5/libmagickwand5/liblqr-1.0)
-libsdl1.2debian
-libxcursor1
-libxinerama1
-libasound2
-libqt5svg5
-libavformat54
-libavcodec54
-libavocdec-extra-54
-libavutil52
-libavutil-extra-52
-libswscale2
-libavdevice53
-libpostproc52
-libavfilter3
-libpython3
+* swig/swig2.0
+* doxygen/doxypy
+* cmake
+* libunittest-dev
+* python3-pyqt5
+* python3-pyqt5.qtsql
+* python3-pyqt5.qtquick
+* python3-pyqt5.qtopengl
+* python3-pyqt5.qtsvg
+* python3-pyqt5.qtxmlpatterns
+* python3-pyqt5.qtmultimedia
+* python3-pyqt5.qtwebkit
+* python3-simplejson
+* build-essential
+* qt5-default
+* qt5-qmake
+* libmagick++5 (wil install libmagickcore5/libmagickwand5/liblqr-1.0)
+* libsdl1.2debian
+* libxcursor1
+* libxinerama1
+* libasound2
+* libqt5svg5
+* libavformat54
+* libavcodec54
+* libavocdec-extra-54
+* libavutil52
+* libavutil-extra-52
+* libswscale2
+* libavdevice53
+* libpostproc52
+* libavfilter3
+* libpython3
 
 After, you must install all dev version of those and even more, Here the list :
 
