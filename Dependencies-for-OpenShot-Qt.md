@@ -115,7 +115,11 @@ Here the list :
 * qt5-location
 * qt5-translations
 
+***
+
 The following step is to compile libopenshot-audio and AFTER libopenshot
+
+***
 
 ### Compile libopenshot-audio
 
