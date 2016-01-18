@@ -1,6 +1,6 @@
 Here you have all dependencies that you need to install for an optimal utilisation on Linux MInt/Ubuntu and Manjaro too.
 
-                   # Installation software on Linux Mint/Ubuntu (and all Ubuntu derivated)
+              # Installation software on Linux Mint/Ubuntu (and all Ubuntu derivated)
 
 First, you must install all softwares asked for getting a full installation, Here the list :
 
@@ -55,6 +55,8 @@ After, you must install all dev version of those and even more, Here the list :
 * libavfilter-dev
 * libmagick++5-dev (will install libmagickcore-dev/libmagickwand-dev)
 
+
+***
 
 Note : using Synaptic, you can search by keywords like libmagick++5 or libpython will install you some others dependencies.
 ***
