@@ -1,5 +1,7 @@
 Here you have all dependencies that you need to install for an optimal utilisation on Linux MInt/Ubuntu and Manjaro too.
 
+                              # Installation software on Linux Mint/Ubuntu (and all Ubuntu derivated)
+
 First, you must install all softwares asked for getting a full installation, Here the list :
 
 * swig/swig2.0
@@ -58,6 +60,8 @@ Note : using Synaptic, you can search by keywords like libmagick++5 or libpytho
 
 Note : you can get/download a document explaining all dependencies needed for all systems i.e Linux, Windows, Mac here : http://bazaar.launchpad.net/~openshot.code/libopenshot/trunk/files/head:/doc/ .
 
+                          # Installation software on Manjaro (Archlinux derivated)
+
 On this kind of system you don't need the dev version because they are compiled sytems.
 
 Here the list :
@@ -107,7 +111,8 @@ Here the list :
 
 The following step is to compile libopenshot-audio and AFTER libopenshot
 
-Compile libopenshot-audio
+### Compile libopenshot-audio
+
 1. mkdir build if not already done
 2. cd build
 3. cmake ..
@@ -115,7 +120,7 @@ Compile libopenshot-audio
 5. sudo make install
 6. openshot-audio-test-sound
 
-Compile libopenshot
+### Compile libopenshot
 
 1. mkdir build
 2. cd build
