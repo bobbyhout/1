@@ -37,21 +37,21 @@ First, you must install all softwares asked for getting a full installation, Her
 
 After, you must install all dev version of those and even more, Here the list :
 
-libsdl1,2-dev
-libxcursor-dev
-libxinerama-dev
-libasound2-dev
-python3-all-dev
-pyhton3-dev
-libpython3-all-dev
-libqt5svg5-dev
-libavformat-dev
-libavcodec-dev
-libswscale-dev
-libavdevice-dev
-libavutil-dev
-libavfilter-dev
-libmagick++5-dev (will install libmagickcore-dev/libmagickwand-dev)
+* libsdl1.2-dev
+* libxcursor-dev
+* libxinerama-dev
+* libasound2-dev
+* python3-all-dev
+* pyhton3-dev
+* libpython3-all-dev
+* libqt5svg5-dev
+* libavformat-dev
+* libavcodec-dev
+* libswscale-dev
+* libavdevice-dev
+* libavutil-dev
+* libavfilter-dev
+* libmagick++5-dev (will install libmagickcore-dev/libmagickwand-dev)
 
 
 Note : using Synaptic, you can search by keywords like libmagick++5 or libpython will install you some others dependencies.
@@ -62,48 +62,48 @@ On this kind of system you don't need the dev version because they are compiled 
 
 Here the list :
 
-libavformat
-libavcodec
-libavutil
-libavdevice
-libswscale
-libmagick++
-libmagickwand
-libmagickcore
-libsdl2
-libqt5
-cmake
-swig
-doxygen
-libunittest++
-qt5-default
-qtbase5-dev
-qtbase5-dev-tools
-qt5-qmake
-qtmultimedia5-dev
-python3-dev
-libxinerama
-libxcursor
-libasound
-qt5-multimedia
-qt5-svg
-qt5-tools
-qt5-webkit
-python-pyqt5
-pyqt5-common
-python-pytools
-doxypy/doxygen
-python-simplejson
-qt5-base
-python-opengl
-python-dbus
-qt5-xmlpatterns
-qt5-declarative
-qt5-serialport
-qt5-imageformats (previously in two packages qt5-image and qt5-formats)
-qt5-doc
-qt5-location
-qt5-translations
+* libavformat
+* libavcodec
+* libavutil
+* libavdevice
+* libswscale
+* libmagick++
+* libmagickwand
+* libmagickcore
+* libsdl2
+* libqt5
+* cmake
+* swig
+* doxygen
+* libunittest++
+* qt5-default
+* qtbase5-dev
+* qtbase5-dev-tools
+* qt5-qmake
+* qtmultimedia5-dev
+* python3-dev
+* libxinerama
+* libxcursor
+* libasound
+* qt5-multimedia
+* qt5-svg
+* qt5-tools
+* qt5-webkit
+* python-pyqt5
+* pyqt5-common
+* python-pytools
+* doxypy/doxygen
+* python-simplejson
+* qt5-base
+* python-opengl
+* python-dbus
+* qt5-xmlpatterns
+* qt5-declarative
+* qt5-serialport
+* qt5-imageformats (previously in two packages qt5-image and qt5-formats)
+* qt5-doc
+* qt5-location
+* qt5-translations
 
 The following step is to compile libopenshot-audio and AFTER libopenshot
 
