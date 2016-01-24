@@ -1,11 +1,22 @@
 ### English Version
+
+
+***
+
 There are an online documentation now. She is not updated to the Openshot-qt serie 2.0 and then is based on the 1.4.x serie. We will update it as we could. 
+
+***
+
+***
+
 
 Also, you can view our help manual online with the following links:
 
+***
+
 * English: 
-           * http://www.openshotusers.com/help/1.3/en_GB
-           * http://www.openshotusers.com/help/1.3/en/
+            http://www.openshotusers.com/help/1.3/en_GB
+            http://www.openshotusers.com/help/1.3/en/
 
 Other languages:
 * Chinese: http://www.openshotusers.com/help/1.3/zh_TW/
@@ -43,8 +54,8 @@ Aussi, vous pouvoir voir notre manuel en ligne à partir des liens suivants:
 ***
 
 
-* Anglais: http://www.openshotusers.com/help/1.3/en_GB
-               http://www.openshotusers.com/help/1.3/en/
+* Anglais:                        http://www.openshotusers.com/help/1.3/en_GB
+                                  http://www.openshotusers.com/help/1.3/en/
 * Français: http://www.openshotusers.com/help/1.3/fr
 
 Autres langues :
