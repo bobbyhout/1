@@ -15,8 +15,8 @@ Also, you can view our help manual online with the following links:
 ***
 
 * English: 
-            http://www.openshotusers.com/help/1.3/en_GB
-            http://www.openshotusers.com/help/1.3/en/
+ 1.  http://www.openshotusers.com/help/1.3/en_GB
+ 2. http://www.openshotusers.com/help/1.3/en/
 
 Other languages:
 * Chinese: http://www.openshotusers.com/help/1.3/zh_TW/
@@ -54,8 +54,9 @@ Aussi, vous pouvoir voir notre manuel en ligne à partir des liens suivants:
 ***
 
 
-* Anglais:                        http://www.openshotusers.com/help/1.3/en_GB
-                                  http://www.openshotusers.com/help/1.3/en/
+* Anglais: 
+1. http://www.openshotusers.com/help/1.3/en_GB
+2. http://www.openshotusers.com/help/1.3/en/
 * Français: http://www.openshotusers.com/help/1.3/fr
 
 Autres langues :
