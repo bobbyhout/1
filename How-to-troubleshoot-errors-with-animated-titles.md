@@ -1,3 +1,5 @@
+**This has been updated in the daily builds. Got to http://www.openshot.org/download/ and click on the _Other Windows Downloads_ link to get the latest**
+
 There are a [large number of issues](https://github.com/OpenShot/openshot-qt/search?q=animated+title&type=Issues&utf8=%E2%9C%93) logged about errors when trying to create animated titles with Blender.  When trying to create an animated title OpenShot returns an error: No frame was found in the output from Blender.
 
 ### First, set the path to Blender correctly
